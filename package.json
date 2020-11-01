@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/verbovoi/goit-js-hw-11-color-switch/issues"
   },
-  "homepage": "https://verbovoi.github.io/goit-js-hw-11-color-switch",
+  "homepage": "https://verbovoi.github.io/goit-js-hw-11-color-switch/",
   "devDependencies": {
     "parcel-bundler": "^1.12.4",
     "parcel-plugin-nuke-dist": "^1.0.1"
